@@ -1,5 +1,10 @@
 ### Olá! Eu sou a cinne 😎
 
+### Sobre mim
+Atualmente sou uma graduanda de tecnólogo em Desenvolvimento de Software Multiplataforma na FATEC Mauá e estou no 3° semestre.
+
+Sou autodidata e atualmente me dedico ao estudo de linguagens de programação como Java, Python e C#/VB.NET, além de estudar as propriedades de ferramentas de banco de dados como SQL Server e MongoDB. Também tenho um nível avançado de proficiência em inglês (certificado de nivel C1 pela EF SET) e no início de 2024 passei a estudar espanhol e coreano.
+
 ![Cinnes's GitHub stats](https://github-readme-stats.vercel.app/api?username=gicypriano&show_icons=true&theme=tokyonight)
 
 ## Tecnologias que eu uso no meu dia a dia
@@ -14,8 +19,3 @@
 </div><br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gicypriano&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-### Sobre mim
-Atualmente sou uma graduanda de tecnólogo em Desenvolvimento de Software Multiplataforma na FATEC Mauá e estou no 3° semestre.
-
-Sou autodidata e atualmente me dedico ao estudo de linguagens de programação como Java, Python e C#/VB.NET, além de estudar as propriedades de ferramentas de banco de dados como SQL Server e MongoDB. Também tenho um nível avançado de proficiência em inglês (certificado de nivel C1 pela EF SET) e no início de 2024 passei a estudar espanhol e coreano.
