@@ -1,7 +1,7 @@
 ### Olá! Eu sou a cinne 😎
 
 ### Sobre mim
-Atualmente sou uma graduanda de tecnólogo em Desenvolvimento de Software Multiplataforma na FATEC Mauá e estou no 3° semestre.
+Atualmente sou uma graduanda de tecnólogo em Desenvolvimento de Software Multiplataforma na FATEC Mauá e estou no 4° semestre.
 
 Sou autodidata e atualmente me dedico ao estudo de linguagens de programação como Java, Python e C#/VB.NET, além de estudar as propriedades de ferramentas de banco de dados como SQL Server e MongoDB. Também tenho um nível avançado de proficiência em inglês (certificado de nivel C1 pela EF SET) e no início de 2024 passei a estudar espanhol e coreano.
 
